@@ -29,7 +29,8 @@ This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framew
 
 ## A list of pre-requisites are as follows:
 
-1. Visual Studio Code
+1. Visual Studio Code (get [here](https://code.visualstudio.com/download)) - learn about debugging bots in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
+2. Node.js installed locally (get [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series.
 2. A Microsoft Account to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
 6. (Optional) An Azure account for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
 7. (Optional) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
