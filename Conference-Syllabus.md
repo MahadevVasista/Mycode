@@ -4,7 +4,16 @@ This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framew
 
 ## Duration
 
-50 minutes
+Approximately 50 minutes
+
+## Pre-Requisites
+
+1. Visual Studio Code (get [here](https://code.visualstudio.com/download)) - learn about debugging bots in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
+2. Node.js installed locally (get [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series.
+2. A Microsoft Account to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
+6. (Optional, but recommended to complete labs) An Azure account (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
+7. (Optional) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
+8. (Optional) An Azure App Insights account to capture telemetry on your bot.
 
 ## Outline for Conference Bot Framework Delivery
 
@@ -25,13 +34,3 @@ This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framew
   5. Registering a bot
   6. Testing the connection and conversing on Skype
   7. Quick note on working with other channels
-
-
-## A list of pre-requisites are as follows:
-
-1. Visual Studio Code (get [here](https://code.visualstudio.com/download)) - learn about debugging bots in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
-2. Node.js installed locally (get [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series.
-2. A Microsoft Account to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
-6. (Optional) An Azure account (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
-7. (Optional) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
-8. (Optional) An Azure App Insights account to capture telemetry on your bot.
