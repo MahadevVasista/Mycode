@@ -20,7 +20,7 @@ This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framew
   1. Toolbox
   2. Build an intelligent bot with Bot Builder Node.js SDK
   3. Test the bot
-5. Azure part (follow along if you don't have an Azure subscription yet)
+5. Azure part (follow along if you don't have an Azure subscription yet or try with free trial [here](https://azure.microsoft.com/en-us/free/))
   4. Publishing a bot
   5. Registering a bot
   6. Testing the connection and conversing on Skype
@@ -32,6 +32,6 @@ This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framew
 1. Visual Studio Code (get [here](https://code.visualstudio.com/download)) - learn about debugging bots in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
 2. Node.js installed locally (get [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series.
 2. A Microsoft Account to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
-6. (Optional) An Azure account for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
+6. (Optional) An Azure account (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
 7. (Optional) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
 8. (Optional) An Azure App Insights account to capture telemetry on your bot.
