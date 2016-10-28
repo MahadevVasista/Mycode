@@ -8,11 +8,13 @@ Approximately 50 minutes
 
 ## Pre-Requisites
 
-1. **Visual Studio Code** (get [here](https://code.visualstudio.com/download)) - learn about debugging bots in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
-2. **Node.js** and **npm** installed locally (get both [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series.  This install will also contain the package manager `npm`.
-2. A **Microsoft Account** to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account)
-1.  (*Optional, but recommended*) **Git clone** https://github.com/michhar/bot-education
-6. (*Optional, but recommended to complete labs*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
+1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series
+2. Unix **command terminal** access or, if on Windows, [PowerShell](https://github.com/PowerShell/PowerShell#get-powershell) or [MobaXterm](http://mobaxterm.mobatek.net/) work nicely
+3. A **Microsoft Account** to log into the Bot Framework developer portal and to sign up for Cognitive Services trial subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account)
+4. (*Recommended to complete labs*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
+5. (*Recommended*) **Visual Studio Code** (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
+6.  (*Recommended*) **Git clone** https://github.com/michhar/bot-education
+
 
 ## Outline for Conference Bot Framework Delivery
 
