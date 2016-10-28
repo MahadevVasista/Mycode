@@ -14,10 +14,9 @@ Approximately 50 minutes
 `$ npm init`<br>
 `$ npm install --save botbuilder@3.3.3`<br>
 <br>
-2. A **Microsoft Account** to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
+2. A **Microsoft Account** to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account)
+1.  (*Optional, but recommended*) **Git clone** https://github.com/michhar/bot-education
 6. (*Optional, but recommended to complete labs*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
-7. (*Optional*) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
-8. (*Optional*) An Azure App Insights account to capture telemetry on your bot.
 
 ## Outline for Conference Bot Framework Delivery
 
