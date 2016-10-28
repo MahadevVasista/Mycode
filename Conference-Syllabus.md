@@ -10,6 +10,10 @@ Approximately 50 minutes
 
 1. **Visual Studio Code** (get [here](https://code.visualstudio.com/download)) - learn about debugging bots in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
 2. **Node.js** and **npm** installed locally (get both [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series.  This install will also contain the package manager `npm`.
+3.  **Bot Builder Node.js SDK** v.3.3.3 (stable).  Install as follows on the cmd line<br><br>
+`$ npm init`<br>
+`$ npm install --save botbuilder@3.3.3`<br>
+<br>
 2. A **Microsoft Account** to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
 6. (*Optional, but recommended to complete labs*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
 7. (*Optional*) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
