@@ -8,8 +8,8 @@ Approximately 50 minutes
 
 ## Pre-Requisites
 
-1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - ramp up on Node with [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) youtube series
-2. Unix **command terminal** access or, if on Windows, [PowerShell](https://github.com/PowerShell/PowerShell#get-powershell) or [MobaXterm](http://mobaxterm.mobatek.net/) work nicely
+1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - if you are new to Node, here's a good video tutorial series: [check it out](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
+2. Unix **command terminal** access or, if on Windows, [PowerShell](https://github.com/PowerShell/PowerShell#get-powershell) or [MobaXterm](http://mobaxterm.mobatek.net/) work nicely - if you are new to unix, here's a good unix tutorial: http://linuxcommand.org.
 3. A **Microsoft Account** to log into the Bot Framework developer portal and to sign up for Cognitive Services trial subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account)
 4. (*Recommended and needed to publish a bot*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
 5. (*Recommended to complete labs*) **Visual Studio Code** (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
