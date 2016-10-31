@@ -15,6 +15,13 @@ Approximately 50 minutes
 5. (*Recommended to complete labs*) **Visual Studio Code** (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
 6.  (*Recommended*) **Git clone** https://github.com/michhar/bot-education
 
+## Recommended Reading/Watching
+
+* Useful to know for how we will interact with bot locally:
+  - https://code.visualstudio.com/docs/editor/debugging#_launch-configurations
+  - https://code.visualstudio.com/docs/editor/debugging#_attaching-vs-code-to-nodejs
+* Computer Vision API (part of Microsoft's Cognitive Services):  https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
+* Language Understanding Intelligent Service (LUIS) video here:  https://www.luis.ai/Help#Video (part of Microsoft's Cognitive Services)
 
 ## Outline for Conference Bot Framework Delivery
 
@@ -26,10 +33,10 @@ Approximately 50 minutes
   *	What types of bot data exist
 3. User Experience:  Principles and Best Practices
   1. Getting the best user experience through thoughtful design
-4. Bot Framework Developer's Introduction – a ride-along lab
+4. Bot Framework Developer's Introduction – a hands-on lab
   1. Toolbox
   2. Build an intelligent bot with Bot Builder Node.js SDK
-  3. Test the bot
+  3. Test the bot in VSCode (attached debugger) and command terminal
 5. Azure part (follow along if you don't have an Azure subscription yet or try with free trial [here](https://azure.microsoft.com/en-us/free/))
   4. Publishing a bot
   5. Registering a bot
