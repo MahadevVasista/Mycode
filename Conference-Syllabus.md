@@ -20,6 +20,8 @@ Approximately 50 minutes
 * Useful to know for how we will interact with bot locally:
   - https://code.visualstudio.com/docs/editor/debugging#_launch-configurations
   - https://code.visualstudio.com/docs/editor/debugging#_attaching-vs-code-to-nodejs
+* Useful to know for deploying a bot to Azure (Microsoft's cloud):
+  - https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure
 * Computer Vision API (part of Microsoft's Cognitive Services):  https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
 * Language Understanding Intelligent Service (LUIS) video here:  https://www.luis.ai/Help#Video (part of Microsoft's Cognitive Services)
 
