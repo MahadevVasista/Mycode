@@ -15,7 +15,8 @@ Approximately 50 minutes
 5. **Command Line Emulator** - install instructions [here](https://docs.botframework.com/en-us/tools/bot-framework-emulator/#mac-and-linux-support-using-command-line-emulator) (Note:  this is a large install)
 6. (*Recommended for testing the cloud deployed bot*) **ngrok** to be used in combination with the console emulator for testing - https://ngrok.com/download
 7. (*Recommended and needed to deploy a bot*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
-8.  (*Recommended*) **Git clone** https://github.com/michhar/bot-education
+8.  (*Recommended and needed to deploy a bot*) **Git** - https://git-scm.com/downloads
+
 
 ## Recommended Reading/Watching
 
