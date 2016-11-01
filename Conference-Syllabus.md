@@ -36,6 +36,7 @@ Please bring a laptop with internet connectivity.
 
 ## Outline for Conference Bot Framework Delivery
 
+1. Cognitive Services Overview
 1. Bot Framework Overview
   1. What a bot is and is not
   1.	What types of bots people are making
