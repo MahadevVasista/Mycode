@@ -8,6 +8,8 @@ Approximately 50 minutes
 
 ## Prerequisites for hands-on-labs
 
+Please bring a laptop with internet connectivity.
+
 1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - if you are new to Node, here's a good video tutorial series: [check it out](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 2. Unix **command terminal** access or, if on Windows, [PowerShell](https://github.com/PowerShell/PowerShell#get-powershell) or [MobaXterm](http://mobaxterm.mobatek.net/) work nicely - if you are new to unix, here's a good unix tutorial: http://linuxcommand.org.
 3. A **Microsoft Account** to log into the Bot Framework developer portal and to sign up for Cognitive Services trial subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account)
