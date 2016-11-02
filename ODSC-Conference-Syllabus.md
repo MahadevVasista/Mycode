@@ -43,8 +43,7 @@ Please bring a laptop with internet connectivity.
   * The major components of the Bot Framework
   * Introductory knowledge of intelligent bots
   * What types of bot data there are
-3. User Experience:  Principles and Best Practices
-  * Getting the best user experience through thoughtful design
+  * Getting the best user experience through thoughtful design  
 6.  Developer's Introduction and Building an intelligent bot with Bot Builder Node.js SDK
   1. Toolbox - Go over prereqs
   * Setup project in VSCode (and set up debugger)
