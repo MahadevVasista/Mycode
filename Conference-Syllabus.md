@@ -36,19 +36,28 @@ Please bring a laptop with internet connectivity.
 
 ## Outline for Conference Bot Framework Delivery
 
-1. Cognitive Services Overview
 1. Bot Framework Overview
   1. What a bot is and is not
-  1.	What types of bots people are making
-  *	The major components of the Bot Framework
-  *	Introductory knowledge of intelligent bots
-  *	What types of bot data there are
+  1. What types of bots people are making
+  * The major components of the Bot Framework
+  * Introductory knowledge of intelligent bots
+  * What types of bot data there are
 3. User Experience:  Principles and Best Practices
   1. Getting the best user experience through thoughtful design
 4. Bot Framework Developer's Introduction – a hands-on lab
-  1. Toolbox
-  2. Build an intelligent bot with Bot Builder Node.js SDK
-  3. Test the bot in VSCode (attached debugger) and command terminal
+  1. Toolbox - Go over prereqs
+  2. Build an simple bot with Bot Builder Node.js SDK
+    * Setup project in VSCode (and set up debugger)
+    * Get code from course website
+    * Test with emulator
+5.  Cognitive services overview
+  * Overview
+  * Get Computer Vision API key
+6.  Build an intelligent bot with Bot Builder Node.js SDK
+    * Setup project in VSCode (and set up debugger)
+    * Get code from course website
+    * Update with Vision API key
+    * Test with emulator
 5. Azure part (follow along if you don't have an Azure subscription yet or try with free trial [here](https://azure.microsoft.com/en-us/free/))
   4. Deploying a bot
   5. Registering a bot
