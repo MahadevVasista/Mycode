@@ -39,7 +39,6 @@ Please bring a laptop with internet connectivity.
   1. What a bot is and is not
   1. What types of bots people are making
   * The major components of the Bot Framework
-  * Introductory knowledge of intelligent bots
   * What types of bot data there are
   * Getting the best user experience through thoughtful design
   4. Deploying and working with channels
