@@ -11,14 +11,10 @@ Approximately 90 minutes
 Please bring a laptop with internet connectivity.
 
 1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - if you are new to Node, here's a good video tutorial series: [check it out](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
-2. Unix **command terminal** access or, if on Windows, [PowerShell](https://github.com/PowerShell/PowerShell#get-powershell) or [MobaXterm](http://mobaxterm.mobatek.net/) work nicely - if you are new to unix, here's a good unix tutorial: http://linuxcommand.org.
-3. A **Microsoft Account** to log into the Bot Framework developer portal and to sign up for Cognitive Services trial subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account)
+2. Unix **command terminal** access or, if on Windows, [PowerShell](https://github.com/PowerShell/PowerShell#get-powershell) or [MobaXterm](http://mobaxterm.mobatek.net/) work nicely - if you are new to the command terminal, here's a good unix tutorial: http://linuxcommand.org.
 4. **Visual Studio Code** (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
 5. **Command Line Emulator** - install instructions [here](https://docs.botframework.com/en-us/tools/bot-framework-emulator/#mac-and-linux-support-using-command-line-emulator) (Note:  this is a large install)
-6. (*Recommended for testing the cloud deployed bot*) **ngrok** to be used in combination with the console emulator for testing - https://ngrok.com/download
-7. (*Recommended and needed to deploy a bot*) An **Azure account** (try with free trial [here](https://azure.microsoft.com/en-us/free/)) for deploying to an Azure-accessible REST endpoint (needed for registering your bot with the Bot Framework service)
-8.  (*Recommended and needed to deploy a bot*) **Git** - https://git-scm.com/downloads
-
+8.  **Git** - https://git-scm.com/downloads
 
 ## Recommended Reading/Watching
 
@@ -27,12 +23,12 @@ Please bring a laptop with internet connectivity.
 * Useful to know for how we will debug locally:
   - https://code.visualstudio.com/docs/editor/debugging#_launch-configurations
   - https://code.visualstudio.com/docs/editor/debugging#_attaching-vs-code-to-nodejs
-* Useful to know for deploying a bot to Azure (Microsoft's cloud):
-  - https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure
 * Useful to learn about testing a cloud deployed bot
   - https://docs.botframework.com/en-us/tools/bot-framework-emulator/#using-the-emulator-with-ngrok-to-interact-with-your-bot-in-the-cloud
 * Computer Vision API (part of Microsoft's Cognitive Services):  https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
 * Language Understanding Intelligent Service (LUIS) video here:  https://www.luis.ai/Help#Video (part of Microsoft's Cognitive Services)
+* Useful to know for deploying a bot to Azure (Microsoft's cloud):
+  - https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure
 
 ## Outline for Conference Bot Framework Delivery
 
