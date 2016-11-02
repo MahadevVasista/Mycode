@@ -36,21 +36,26 @@ Please bring a laptop with internet connectivity.
 
 ## Outline for Conference Bot Framework Delivery
 
-5.  Cognitive services overview
+1. Introduction and goals
+ * Syllabus
+ * Learning objectives
 1. Bot Framework Overview
   1. What a bot is and is not
   1. What types of bots people are making
   * The major components of the Bot Framework
   * Introductory knowledge of intelligent bots
   * What types of bot data there are
-  * Getting the best user experience through thoughtful design  
-6.  Developer's Introduction and Building an intelligent bot with Bot Builder Node.js SDK
+  * Getting the best user experience through thoughtful design
+  4. Deploying and working with channels
+2.  Cognitive services overview
+  1. What are Cognitive APIs
+  * Models behind Cognitive APIs
+  * Types of Cognitive APIs
+  * Cognitive APIs Demo (Vision and Text)
+3.  Developer's Introduction and Building an intelligent bot with Bot Builder Node.js SDK
   1. Toolbox - Go over prereqs
   * Setup project in VSCode (and set up debugger)
   * Get code from course website
   * Update with Vision API key
   * Test with emulator
-5. Azure part (follow along if you don't have an Azure subscription yet or try with free trial [here](https://azure.microsoft.com/en-us/free/))
-  4. Deploying a bot
-  5. Registering a bot
-  7. Working with channels
+4.  Summary
