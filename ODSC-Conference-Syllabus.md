@@ -1,10 +1,10 @@
 ## Introduction
 
-This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framework, providing sample code upon which to base a bot experience.  It will help attendees decide if they want to make a bot to solve a repetitive task they have encountered or they know might be useful to others.  User experience will be heavily emphasized to create the best bot experiences.  Components will be laid out for the attendee and if they have an Azure subscription the registration and publishing portion can be performed (the bot may still be tested locally).
+This tutorial will ramp up the attendee very quickly on the Microsoft Bot Framework, providing sample code upon which to base a bot experience.  It will help attendees decide if they want to make a bot to solve a repetitive task they have encountered or they know might be useful to others.  User experience will be heavily emphasized to create the best bot experiences.  Components will be laid out for the attendee.
 
 ## Duration
 
-Approximately 50 minutes
+Approximately 90 minutes
 
 ## Prerequisites for hands-on-labs
 
