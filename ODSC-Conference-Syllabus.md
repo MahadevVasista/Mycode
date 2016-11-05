@@ -37,11 +37,9 @@ Please bring a laptop with internet connectivity.
  * Learning objectives
 1. Bot Framework Overview
   1. What a bot is and is not
-  1. What types of bots people are making
   * The major components of the Bot Framework
-  * What types of bot data there are
-  * Getting the best user experience through thoughtful design
-  4. Deploying and working with channels
+  * Deploying and working with channels
+  * Your arsenal or toolbox
 2.  Cognitive services overview
   1. What are Cognitive APIs
   * Models behind Cognitive APIs
@@ -50,7 +48,7 @@ Please bring a laptop with internet connectivity.
 3.  Developer's Introduction and Building an intelligent bot with Bot Builder Node.js SDK
   1. Toolbox - Go over prereqs
   * Setup project in VSCode (and set up debugger)
-  * Get code from course website
-  * Update with Vision API key
-  * Test with emulator
+  * Get code from course website with Git
+  * Update with Vision API key from Cognitive Services "My Account"
+  * Test with emulator on command line
 4.  Summary
