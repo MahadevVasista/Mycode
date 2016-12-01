@@ -13,15 +13,23 @@ There are a few things you will need in order to take full advantage of the cour
 
 Please bring a laptop with internet connectivity.
 
-1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - if you are new to Node, here's a good video tutorial series: [check it out](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
-4. **Visual Studio Code** \[recommended\] (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
-5. **Bot Framework Emulator (Windows and Unix-compatible)** installed locally - information and links [here](https://docs.botframework.com/en-us/tools/bot-framework-emulator)
-8.  **GitHub Account** - https://github.com/join
+1. **Node.js** with **npm** installed locally (get the latest at:
+  * https://nodejs.org/en/download/
+4. **Visual Studio Code** \[recommended\] or equivalent code editing and debugging environment with IntelliSense.  
+  * https://code.visualstudio.com/download
+5. **Bot Framework Emulator** (Windows and Unix-compatible) installed locally - information and links at
+  * https://docs.botframework.com/en-us/tools/bot-framework-emulator
+8.  **GitHub Account** - a code repository and collaboration tool we'll use
+  * https://github.com/join
+*  **Git Bash** - included in git download
+  * https://git-scm.com/downloads
 
 We will assume you have already have the following background:
 
-1.  Ability to use and navigate using the command line or terminal
-2.  Familiarity with GitHub as a tool for software development, versioning and collaboration.
+1.  Basic knowledge around using and navigating in a unix-style command line or terminal (for using Git Bash) (good basic guide at http://linuxcommand.org/lc3_learning_the_shell.php)
+2.  Familiarity with Git and GitHub as a tools for software development, versioning and collaboration. (great book on Git at https://git-scm.com/book/en/v2)
+*  Have learned about debugging bots with VSCode in https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/ docs.
+*  If you are new to Node, here's a good video tutorial series at https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
 
 ## Modules
 
@@ -46,9 +54,9 @@ We will assume you have already have the following background:
 * Microsoft Cognitive Services
 * Microsoft Bot Framework
 
-## Agenda
+## Agenda [currently under revision]
 
-### Course Modules
+### Details for Course Modules
 
 Each Training Module guides you through a logical progression with hands-on tasks in do-verb form. Each day is broken up into 1-4 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. Participants will receive a copy of the lab material to try on their own, but are not required to run the analysis during the training time.
 The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
