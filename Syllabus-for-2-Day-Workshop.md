@@ -14,7 +14,7 @@ There are a few things you will need in order to take full advantage of the cour
 Please bring a laptop with internet connectivity.
 
 1. **Node.js** with **npm** installed locally (get the latest [here](https://nodejs.org/en/download/)) - if you are new to Node, here's a good video tutorial series: [check it out](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
-4. **Visual Studio Code** [recommended] (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
+4. **Visual Studio Code** \[recommended\] (get [here](https://code.visualstudio.com/download)) or equivalent code editing and debugging environment with IntelliSense.  Learn about debugging bots with VSCode in [these](https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/) docs.
 5. **Bot Framework Emulator (Windows and Unix-compatible)** installed locally - information and links [here](https://docs.botframework.com/en-us/tools/bot-framework-emulator)
 8.  **GitHub Account** - https://github.com/join
 
@@ -26,7 +26,7 @@ We will assume you have already have the following background:
 ## Modules
 
 1.  Cognitive Services Overview
-2.  Cognitive Services Topic Deep Dive with Hands-on-Labs
+2.  Cognitive Services Topic Deep Dive
 *  Bot Framework Overview
 *  User Experience:  Principles and Best Practices
 *  Developer's Introduction and Building an Intelligent Bot with Bot Builder Node.js SDK
@@ -37,7 +37,7 @@ We will assume you have already have the following background:
 1.  Generally grasp what the Cognitive Services APIs have to offer
 *  Gain some in-depth knowledge and practical experience with some of the popular Cognitive Services APIs
 *  Understand what a chat bot entails and how the Bot Framework can make the developer's life much easier
-*  Grasp best practices around creating chat bots to create an attractive and positive user experiences
+*  Grasp best practices around creating chat bots to create an attractive and positive user experience
 *  Take a tour of an end-to-end chat bot creation process
 *  Take an in-depth look at what makes up conversations and how to make them more intelligent
 
@@ -53,12 +53,12 @@ We will assume you have already have the following background:
 Each Training Module guides you through a logical progression with hands-on tasks in do-verb form. Each day is broken up into 1-4 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. Participants will receive a copy of the lab material to try on their own, but are not required to run the analysis during the training time.
 The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
 
-Specifics COMING SOON!
+\[Specifics COMING SOON!\]
 
 ## Training Objectives
 
 The course is designed to help developers and data scientists create intelligent chat bots. After completion, participants will be able to:
-* [specifics COMING SOON]
+* \[Specifics COMING SOON\]
 
 ## Detailed Outline [currently under minor revisions]
 
