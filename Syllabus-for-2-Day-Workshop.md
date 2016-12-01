@@ -13,7 +13,7 @@ There are a few things you will need in order to take full advantage of the cour
 
 Please bring a laptop with internet connectivity.
 
-1. **Node.js** with **npm** installed locally (get the latest at:
+1. **Node.js** with **npm** installed locally - get the latest at:
   * https://nodejs.org/en/download/
 4. **Visual Studio Code** \[recommended\] or equivalent code editing and debugging environment with IntelliSense.  
   * https://code.visualstudio.com/download
