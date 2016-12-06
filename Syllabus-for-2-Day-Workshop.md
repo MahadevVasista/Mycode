@@ -61,7 +61,20 @@ We will assume you have already have the following background:
 Each Training Module guides you through a logical progression with hands-on tasks in do-verb form. Each day is broken up into 1-4 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. Participants will receive a copy of the lab material to try on their own, but are not required to run the analysis during the training time.
 The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
 
-\[Specifics COMING SOON!\]
+**Day 1**
+
+| Time | Module |
+| --- | --- |
+| Morning | Cognitive Services Overview with Demos |
+| Afternoon |  Cognitive Services Topic Deep Dive |
+
+**Day 2**
+
+| Time | Module |
+| --- | --- |
+| Early Morning | Bot Framework Overview and User Experience Best Practices |
+| Late Morning | Developer's Introduction and Building an Intelligent Bot |
+| Afternoon | Bot Framework Developer's Deep Dive |
 
 ## Training Objectives
 
