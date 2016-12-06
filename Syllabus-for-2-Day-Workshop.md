@@ -54,7 +54,7 @@ We will assume you have already have the following background:
 * Microsoft Cognitive Services
 * Microsoft Bot Framework
 
-## Agenda [currently under revision]
+## Agenda
 
 ### Details for Course Modules
 
