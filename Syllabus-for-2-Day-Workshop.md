@@ -1,6 +1,8 @@
 Developing and Deploying Intelligent Chat Bots 
 ===============================================
 
+Quick link back to this page:  https://aka.ms/botedu
+
 ## About the Course
 
 This 2-Day course, designed for developers and data scientists, will ramp up the attendee very quickly on Microsoft's powerful machine learning algorithm APIs as a part of Cognitive Services and chat bot development tools as part of the Bot Framework.  These tools will be called out separately as independent and innovative tools-of-the-trade, as well as a big part of the course focusing on the power of combining these tools to create intelligent chat bots (think instant messaging a picture to get an intelligent caption or annotating conversations based on key phrases).  This course will help attendees decide if and how they want to make a chat bot to solve a repetitive task or clever scenario they have encountered.  User experience will be heavily emphasized to create the best bot experiences.  Components will be laid out for the attendee so that in the end they will have a working, published bot or many.
