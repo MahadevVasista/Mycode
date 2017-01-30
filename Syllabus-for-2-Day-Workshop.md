@@ -73,6 +73,8 @@ Each day is broken up into 1-4 hour Modules, where you will learn and perform la
 | Late Morning | Developer's Introduction and Deploying an Intelligent Bot |
 | Afternoon | Deep Dive into the Microsoft Bot Framework |
 
+The slide decks are posted at https://github.com/michhar/bot-extras for each delivery of this course.
+
 ## Training Objectives
 
 The course is designed to help developers and data scientists create intelligent chat bots. After completion, participants will be able to:
