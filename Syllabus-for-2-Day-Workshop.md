@@ -11,7 +11,7 @@ There are a few things you will need in order to take full advantage of the cour
 
 Please bring a laptop with internet connectivity.
 
-1.  Git clone or download this site to get all of the resources
+1.  **Git clone** or download this site to get all of the resources
   * To git clone, on the command line (must have git installed - see below) `git clone https://github.com/Azure/bot-education.git` or just download as a zip file.
 1. **Node.js** with **npm** installed locally - get the latest at:
   * https://nodejs.org/en/download/
