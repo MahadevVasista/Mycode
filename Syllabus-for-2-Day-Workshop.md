@@ -11,6 +11,8 @@ There are a few things you will need in order to take full advantage of the cour
 
 Please bring a laptop with internet connectivity.
 
+1.  Git clone or download this site to get all of the resources
+  * To git clone, on the command line (must have git installed - see below) `git clone https://github.com/Azure/bot-education.git` or just download as a zip file.
 1. **Node.js** with **npm** installed locally - get the latest at:
   * https://nodejs.org/en/download/
 4. **Visual Studio Code** \[recommended\] or equivalent code editing and debugging environment with IntelliSense.  
@@ -62,8 +64,8 @@ Each day is broken up into 1-4 hour Modules, where you will learn and perform la
 
 | Time | Module |
 | --- | --- |
-| Morning | Cognitive Services Overview with Demos |
-| Afternoon |  Cognitive Services Topic Deep Dive |
+| Morning | Cognitive Services with Demos and Labs Part 1 |
+| Afternoon |  Cognitive Services with Demos and Labs Part 2 |
 
 **Day 2**
 
