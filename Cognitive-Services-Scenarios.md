@@ -1,4 +1,4 @@
-| Cognitive Services API | Scenario/Use Case | Customer(s) | API is Good For | Featured Sample(s) of API |
+| Cognitive Services API | Scenario/Use Case       | Customer(s) | API is Good For | Sample(s) |
 | --- | --- | --- | --- | --- |
 | Academic (academic.microsoft.com)  |  |  |  |  |
 | Bing Autosuggest  |  |  |  |  |
@@ -16,7 +16,7 @@
 | Face  |  |  |  |  |
 | Knowledge Exploration  |  |  |  |  |
 | Linguistic Analysis  |  |  |  |  |
-| LUIS (luis.ai)  | Create an app/bot to check bus times in a city (using a transport API if available). Create an app/bot to access Excel workbooks in One Drive for Business with a conversational interface. |  |  | [BusBot (Node.js)[https://github.com/liliankasem/busbot]; [ExcelBot (C#)](https://github.com/microsoftgraph/botframework-csharp-excelbot-rest-sample) |
+| LUIS (luis.ai)  | Create an app/bot to check bus times in a city (using a transport API if available). Create an app/bot to access Excel workbooks in One Drive for Business with a conversational interface. |  |  | [BusBot (Node.js)][https://github.com/liliankasem/busbot]; [ExcelBot (C#)](https://github.com/microsoftgraph/botframework-csharp-excelbot-rest-sample) |
 | QnA Maker  |  |  |  |  |
 | Recommendations  |  |  |  |  |
 | Speaker Recognition  |  |  |  |  |
