@@ -1,5 +1,5 @@
 | Cognitive Services API | Scenario/Use Case | Customer(s) | API is Good For | Featured Sample(s) of API |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Academic (academic.microsoft.com)  |  |  |  |  |
 | Bing Autosuggest  |  |  |  |  |
 | Bing Image  |  |  |  |  |
