@@ -4,7 +4,7 @@
 | Bing Autosuggest  |  |  |  |  
 | Bing Image  |  |  |  |  
 | Bing News  | An app or bot to check for trending news based on LUIS entities and incorporating LUIS intents.  |  |  | [FreddyTheFishBot (C#)](https://blogs.msdn.microsoft.com/jamiedalton/2016/11/03/building-a-physical-bot-using-the-botframework-freddythefishbot-futuredecoded-2016/); [NewsBot for FB (Node.js)](https://github.com/alyssaong1/NodeNewsBot)  |
-| Bing Speech  | The users keep their phones in their pockets, and with the help of a headset, they can issue commands such as “Take me to Starbucks,” “What is around me?” and “Where am I?” [Cities Unlocked app by Guide Dogs](https://www.microsoft.com/developerblog/real-life-code/2016/11/18/Improving-speech-and-intent-recognition-on-iOS.html) |  |  |  
+| Bing Speech  | The users keep their phones in their pockets, and with the help of a headset, they can issue commands such as “Take me to Starbucks,” “What is around me?” and “Where am I?” [Cities Unlocked app by Guide Dogs](https://www.microsoft.com/developerblog/real-life-code/2016/11/18/Improving-speech-and-intent-recognition-on-iOS.html) |  |  | [Rapid voice commands iOS](https://github.com/CatalystCode/rapid-voice-commands-ios) |
 | Bing Spell Check  |  |  |  |  
 | Bing Video  |  |  |  |  
 | Bing Web  | Music search bot to which a user can ask "who wrote moon river", "when was symphony no. 5 written by Beethoven" |  |  |  
@@ -24,7 +24,7 @@
 | Translator  |  |  |  |
 | Video  |  |  |  |
 | WebLM  |  |  |  |
-| Multiple APIs | An AI program that finds similarities between current photojournalism and British art of the past (using many of the Vision APIs, e.g. Recognition project); Following particular celebrities in trending news (Face, Bing News) |  |  | [Recognition app results](http://recognition.tate.org.uk/)  |
+| Multiple APIs | An AI program that finds similarities between current photojournalism and British art of the past (using many of the Vision APIs, e.g. Recognition project); Following particular celebrities in trending news (Face, Bing News) |  |  | [Recognition app results - no code](http://recognition.tate.org.uk/)  |
 
 
 For Translator's supported languages check out https://www.microsoft.com/en-us/translator/languages.aspx
