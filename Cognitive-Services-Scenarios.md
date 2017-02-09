@@ -17,7 +17,7 @@
 | Knowledge Exploration  | Using thousands of emails and chats for a set of customers and support staff to train a model that can be searched with natural language queries |  |  |
 | Linguistic Analysis  |  |  |  |
 | LUIS (luis.ai)  | Create an app/bot to check bus times in a city (using a transport API if available). Create an app/bot to access Excel workbooks in One Drive for Business with a conversational interface. |  | [BusBot (Node.js)](https://github.com/liliankasem/busbot); [ExcelBot (C#)](https://github.com/microsoftgraph/botframework-csharp-excelbot-rest-sample); [Multilinqual child-bot orchestrator bot (Node.js)](https://github.com/morsh/multilingual-uber-bot) |
-| QnA Maker  | Answer questions from an existing knowledge base such as an online FAQ for a product or company. |  |  |
+| QnA Maker  | Answer common questions about an event from a compiled list of FAQs from the last one and known facts around the current event. |  | [simple QnA Maker bot](https://github.com/CatalystCode/qnamakerbot) |
 | Recommendations  | Display recommendations on an e-commerce site for customers shopping for furniture pieces find what they want [DutchCrafters story](https://www.microsoft.com/cognitive-services/en-us/dutchcrafters) |  |  |
 | Speaker Recognition  | In a video clip from a movie, identify who is speaking and when (as used in Microsoft Garage's [Video Breakdown app](https://www.microsoft.com/en-us/garage/project-details.aspx?project=video-breakdown)  |  |  |
 | Text Analytics  | In a video transcript of a breaking news piece, find key phrases and sentiment (as used in Microsoft Garage's [Video Breakdown app](https://www.microsoft.com/en-us/garage/project-details.aspx?project=video-breakdown) |  |  |
