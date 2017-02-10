@@ -1,4 +1,4 @@
-**Table of Contents**
+**Table of Contents of Syllabus for 2 Day Workshop**
 
 [Quick Links](https://github.com/Azure/bot-education/wiki/Syllabus-for-2-Day-Workshop#quick-links)
 
