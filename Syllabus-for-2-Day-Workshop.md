@@ -5,7 +5,7 @@ Quick link back to this page:  https://aka.ms/botedu
 
 ## About the Course
 
-This 2-Day course, designed for developers and data scientists.  This course will ramp up the attendee quickly on the Microsoft Bot Framework as a development tool/portal and the Cognitive Services APIs for intelligence, linking the two in the creation of an intelligent chat bot for conversational platforms. Thoughtful design, much like in Data Science, as well as and user experience will be emphasized to create the best bot experiences.
+This 2-Day course is designed for developers and data scientists.  This course will ramp up the attendee quickly on the Microsoft Bot Framework as a development tool/portal and the Cognitive Services APIs for intelligence, linking the two in the creation of an intelligent chat bot for conversational platforms. Thoughtful design, much like in Data Science, as well as user experience will be emphasized to create the best bot experiences.
 
 Instructor:  Micheleen Harris (michhar<at>microsoft<dot>com)
 
@@ -65,32 +65,38 @@ Summary:  Each day is broken up into 1-2 hour Modules, where you will learn and 
 ## Day 1 Outline: 9:00 am – 4:30 pm
 
 Section 1: 15 mins – 9:00 am
+
 1.  Welcome
 2.  Introduction (and course links)
 
 Section 2: 90 mins – 9:15 am
+
 1.  Cognitive Services overview
 2.  Cognitive Services demo - IntelligentKiosk
 
 Break – 15 mins 10:30 am
 
 Section 3: 60 mins – 10:45 am
+
 1.  Programming primer
 
 Lunch – 11:45 am – 12:45 pm
 
 Section 4: 90 mins – 12:45 pm
+
 1.  Cognitive Services deep dive
 2.  Instructor-led labs with python on jupyter notebooks
 
 Break – 15 mins – 2:15 pm
 
 Section 5: 90 mins – 2:30 pm
+
 1.  Group exercise: a pitch
 
 Break – 15 mins – 4:00 pm
 
 Section 6: 15 mins – 4:15 pm
+
 1.  Summary
 2.  Q/A
 
@@ -99,10 +105,12 @@ End - 4:30 pm
 ## Day 2 Outline: 9:00 am – 4:30 pm
 
 Section 1: 15 mins – 9:00 am
+
 1.  Welcome
 2.  Introduction
 
 Section 2: 60 mins – 9:15 am
+
 1.  Motivation
 1.  Bot Framework overview
 3.  OCR bot demo on Skype
@@ -110,23 +118,27 @@ Section 2: 60 mins – 9:15 am
 Break – 15 mins – 10:15 am
 
 Section 3: 75 mins – 10:30 am
+
 1.  Developer's introduction and deploying an intelligent bot
 2.  Deploy a sample bot end-to-end
 
 Lunch: 11:45 am – 12:45 pm
 
 Section 4: 90 mins 12:45 pm
+
 1.  Deep dive into the Microsoft Bot Framework
 2.  Instructor-led and hands-on labs
 
 Break – 15 mins – 2:15 pm
 
 Section 4: 90 mins 2:30 pm
+
 1.  Group exercise:  Hackathon
 
 Break – 15 mins – 4:00 pm
 
 Section 5: 15 mins – 4:15 pm
+
 1.  Summary
 2.  Q/A
 
