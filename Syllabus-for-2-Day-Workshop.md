@@ -5,7 +5,9 @@ Quick link back to this page:  https://aka.ms/botedu
 
 ## About the Course
 
-This 2-Day course, designed for developers and data scientists, will ramp up the attendee very quickly on Microsoft's powerful machine learning algorithm APIs as a part of Cognitive Services and chat bot development tools as part of the Bot Framework.  These tools will be called out separately as independent and innovative tools-of-the-trade, as well as a big part of the course focusing on the power of combining these tools to create intelligent chat bots (think instant messaging a picture to get an intelligent caption or annotating conversations based on key phrases).  This course will help attendees decide if and how they want to make a chat bot to solve a repetitive task or clever scenario they have encountered.  User experience will be heavily emphasized to create the best bot experiences.  Components will be laid out for the attendee so that in the end they will have a working, published bot or many.
+This 2-Day course, designed for developers and data scientists.  This course will ramp up the attendee quickly on the Microsoft Bot Framework as a development tool/portal and the Cognitive Services APIs for intelligence, linking the two in the creation of an intelligent chat bot for conversational platforms. Thoughtful design, much like in Data Science, as well as and user experience will be emphasized to create the best bot experiences.
+
+Instructor:  Micheleen Harris (michhar<at>microsoft<dot>com)
 
 ## Prerequisites
 
@@ -58,26 +60,79 @@ We will assume you have already have the following background:
 
 ## Agenda
 
-### Details for Course Modules
+Summary:  Each day is broken up into 1-2 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
 
-Each day is broken up into 1-4 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
+## Day 1 Outline: 9:00 am – 4:30 pm
 
-**Day 1**
+Section 1: 15 mins – 9:00 am
+1.  Welcome
+2.  Introduction (and course links)
 
-| Time | Module |
-| --- | --- |
-| Morning | Cognitive Services with Demos and Labs Part 1 |
-| Afternoon |  Cognitive Services with Demos and Labs Part 2 |
+Section 2: 90 mins – 9:15 am
+1.  Cognitive Services overview
+2.  Cognitive Services demo - IntelligentKiosk
 
-**Day 2**
+Break – 15 mins 10:30 am
 
-| Time | Module |
-| --- | --- |
-| Early Morning | Bot Framework Overview and User Experience Best Practices |
-| Late Morning | Developer's Introduction and Deploying an Intelligent Bot |
-| Afternoon | Deep Dive into the Microsoft Bot Framework |
+Section 3: 60 mins – 10:45 am
+1.  Programming primer
 
-The slide decks are posted at https://github.com/michhar/bot-extras for each delivery of this course.
+Lunch – 11:45 am – 12:45 pm
+
+Section 4: 90 mins – 12:45 pm
+1.  Cognitive Services deep dive
+2.  Instructor-led labs with python on jupyter notebooks
+
+Break – 15 mins – 2:15 pm
+
+Section 5: 90 mins – 2:30 pm
+1.  Group exercise: a pitch
+
+Break – 15 mins – 4:00 pm
+
+Section 6: 15 mins – 4:15 pm
+1.  Summary
+2.  Q/A
+
+End - 4:30 pm
+
+## Day 2 Outline: 9:00 am – 4:30 pm
+
+Section 1: 15 mins – 9:00 am
+1.  Welcome
+2.  Introduction
+
+Section 2: 60 mins – 9:15 am
+1.  Motivation
+1.  Bot Framework overview
+3.  OCR bot demo on Skype
+
+Break – 15 mins – 10:15 am
+
+Section 3: 75 mins – 10:30 am
+1.  Developer's introduction and deploying an intelligent bot
+2.  Deploy a sample bot end-to-end
+
+Lunch: 11:45 am – 12:45 pm
+
+Section 4: 90 mins 12:45 pm
+1.  Deep dive into the Microsoft Bot Framework
+2.  Instructor-led and hands-on labs
+
+Break – 15 mins – 2:15 pm
+
+Section 4: 90 mins 2:30 pm
+1.  Group exercise:  Hackathon
+
+Break – 15 mins – 4:00 pm
+
+Section 5: 15 mins – 4:15 pm
+1.  Summary
+2.  Q/A
+
+End - 4:30 pm
+
+The slide decks (as pdfs) are posted at https://github.com/michhar/bot-extras for each delivery of this course and available from the instructor as powerpoints.
 
 ## Training Objectives
 
