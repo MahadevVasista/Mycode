@@ -102,7 +102,7 @@ SPEECH
 > They are accessible through any language that can leverage https and REST calls.
 
 34. How would it recognize different languages?
-> Many languages are supported by Bing Speech and can be found at [this](https://www.microsoft.com/cognitive-services/en-us/speech-api/documentation/overview#supported-languages) link.  Translator could be integrated as well.
+> Many languages are supported by Bing Speech and can be found at https://www.microsoft.com/cognitive-services/en-us/speech-api/documentation/overview#supported-languages.  Translator could be integrated as well.
 
 35. These features are available under various mature open-source packages like OpenCV, OpenNLP etc. Same can be used to build a distributed system to expose similar APIs. What is the advantage of using Microsoft/Azure services?
-> Some advantages include that very little or no programming is required, tiers for scaling are available and the free tier scales well for small to medium apps, sample code and SDKs prevail (see [here](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample)) and many scenarios can be handled well (an example list [here](https://github.com/Azure/bot-education/wiki/Cognitive-Services-Scenarios)).
+> Some advantages include that very little or no programming is required, tiers for scaling are available and the free tier scales well for small to medium apps, sample code and SDKs are numerous (see https://www.microsoft.com/cognitive-services/en-us/SDK-Sample) and many scenarios can be handled well (an example list: https://github.com/Azure/bot-education/wiki/Cognitive-Services-Scenarios).
