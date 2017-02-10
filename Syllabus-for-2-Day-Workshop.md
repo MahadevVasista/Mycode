@@ -10,7 +10,7 @@ Developing and Deploying Intelligent Chat Bots
 * Intelligent-Kiosk code:  https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
 * Bot Framework:  https://botframework.com
 * Bot Framework resources:  https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/
-* Public class forum:  https://gitter.im/analytics-at-ms/class-bots
+* Public class forum:  [![Join the chat at https://gitter.im/class-bots/Lobby](https://badges.gitter.im/class-bots/Lobby.svg)](https://gitter.im/analytics-at-ms/class-bots?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 other links will be posted as needed  
 
