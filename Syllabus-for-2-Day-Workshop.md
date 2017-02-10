@@ -1,7 +1,18 @@
 Developing and Deploying Intelligent Chat Bots 
 ===============================================
 
-Quick link back to this page:  https://aka.ms/botedu
+## Quick Links
+
+* This page:  https://aka.ms/botedu
+* Cognitive Services APIs:  https://www.microsoft.com/cognitive-services/en-us/documentation
+* Cognitive Services Python labs:  https://notebooks.azure.com/library/python-cognitive
+* Intelligent-Kiosk windows app:  https://www.microsoft.com/en-us/store/p/intelligent-kiosk/9nblggh5qd84
+* Intelligent-Kiosk code:  https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
+* Bot Framework:  https://botframework.com
+* Bot Framework resources:  https://blogs.msdn.microsoft.com/smich/2016/09/30/microsoft-bot-framework-resources/
+* Public class forum:  https://gitter.im/analytics-at-ms/class-bots
+
+other links will be posted as needed  
 
 ## About the Course
 
