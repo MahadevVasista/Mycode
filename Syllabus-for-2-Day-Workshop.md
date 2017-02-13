@@ -139,7 +139,7 @@ Lunch: 11:45 am – 12:45 pm
 Section 4: 90 mins 12:45 pm
 
 1.  Deep dive into the Microsoft Bot Framework
-2.  Instructor-led and hands-on labs ([Dialog Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-playground), [Attachment Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-cardbot))
+2.  Instructor-led and hands-on labs ([Dialog Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-playground), [Attachment Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-cardbot), [Simple Intent Lab](https://github.com/michhar/bot-education/tree/master/Student-Resources/BOTs/Node/bot-simpleintent), [LUIS Intent Lab](https://github.com/Microsoft/BotBuilder-Samples/tree/master/Node/intelligence-LUIS), [Graph Dialog Lab](https://github.com/CatalystCode/bot-trees))
 
 Break – 15 mins – 2:15 pm
 
