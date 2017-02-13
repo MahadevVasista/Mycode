@@ -132,14 +132,14 @@ Break – 15 mins – 10:15 am
 Section 3: 75 mins – 10:30 am
 
 1.  Developer's introduction and deploying an intelligent bot
-2.  Deploy a sample bot end-to-end
+2.  Deploy a sample bot end-to-end ([Lab](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#i-want-to-setup-continuous-integration-from-github) with instructor)
 
 Lunch: 11:45 am – 12:45 pm
 
 Section 4: 90 mins 12:45 pm
 
 1.  Deep dive into the Microsoft Bot Framework
-2.  Instructor-led and hands-on labs
+2.  Instructor-led and hands-on labs ([Dialog Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-playground), [Attachment Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-cardbot))
 
 Break – 15 mins – 2:15 pm
 
