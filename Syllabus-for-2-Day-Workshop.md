@@ -132,7 +132,7 @@ Break – 15 mins – 10:15 am
 Section 3: 75 mins – 10:30 am
 
 1.  Developer's introduction and deploying an intelligent bot
-2.  Deploy a sample bot end-to-end ([Lab](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#i-want-to-setup-continuous-integration-from-github) with instructor)
+2.  Deploy a sample bot end-to-end ([Lab Part 1](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#i-want-to-setup-continuous-integration-from-github), [Lab Part 2](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#test-your-azure-bot-with-the-bot-framework-emulator), [Lab Part 3](https://michhar.github.io/posts/ocrbot-makes-a-connection#the-ocrbot-gets-registered-on-the-bf) with instructor)
 
 Lunch: 11:45 am – 12:45 pm
 
