@@ -124,7 +124,7 @@ Break – 15 mins – 2:15 pm
 
 Section 4: 90 mins 2:30 pm
 
-1.  Group exercise:  Hackathon
+1.  Group exercise:  Hackathon (Instructions at [https://aka.ms/botedu-hack](https://aka.ms/botedu-hack))
 
 Break – 15 mins – 4:00 pm
 
