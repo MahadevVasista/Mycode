@@ -48,28 +48,6 @@ We will assume you have already have the following background:
 *  Have learned about debugging bots with VSCode in https://docs.botframework.com/en-us/node/builder/guides/debug-locally-with-vscode/ docs.
 *  If you are new to Node, here's a good video tutorial series at https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
 
-## Modules
-
-1.  Cognitive Services Overview
-2.  Cognitive Services Topic Deep Dive
-*  Bot Framework Overview and User Experience Best Practices
-*  Developer's Introduction and Building an Intelligent Bot with Bot Builder Node.js SDK
-*  Bot Framework Developer's Deep Dive
-
-## Concepts Covered
-
-1.  Generally grasp what the Cognitive Services APIs have to offer
-*  Gain some in-depth knowledge and practical experience with some of the popular Cognitive Services APIs
-*  Understand what a chat bot entails and how the Bot Framework can make the developer's life much easier
-*  Grasp best practices around creating chat bots to create an attractive and positive user experience
-*  Take a tour of an end-to-end chat bot creation process
-*  Take an in-depth look at what makes up conversations and how to make them more intelligent
-
-## Technologies Covered
-
-* Microsoft Cognitive Services
-* Microsoft Bot Framework
-
 ## Agenda
 
 Summary:  Each day is broken up into 1-2 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
@@ -83,6 +61,7 @@ Section 1: 15 mins – 9:00 am
 
 Section 2: 90 mins – 9:15 am
 
+1.  Motivation
 1.  Cognitive Services overview
 2.  Cognitive Services demo - IntelligentKiosk
 
@@ -132,7 +111,118 @@ Break – 15 mins – 10:15 am
 Section 3: 75 mins – 10:30 am
 
 1.  Developer's introduction and deploying an intelligent bot
-2.  Deploy a sample bot end-to-end ([Lab Part 1](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#i-want-to-setup-continuous-integration-from-github), [Lab Part 2](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#test-your-azure-bot-with-the-bot-framework-emulator), [Lab Part 3](https://michhar.github.io/posts/ocrbot-makes-a-connection#the-ocrbot-gets-registered-on-the-bf) with instructor)
+2.  Deploy a sample bot end-to-end (use bot-hello and follow [Main Lab](https://github.com/michhar/Bot-Framework-HOL/blob/master/CONNECT.md#initialise-a-github-repository), other resources: [Part 1](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#i-want-to-setup-continuous-integration-from-github), [Part 2](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#test-your-azure-bot-with-the-bot-framework-emulator), [Part 3](https://michhar.github.io/posts/ocrbot-makes-a-connection#the-ocrbot-gets-registered-on-the-bf) with instructor)
+
+Lunch: 11:45 am – 12:45 pm
+
+Section 4: 90 mins 12:45 pm
+
+1.  Deep dive into the Microsoft Bot Framework
+2.  Instructor-led and hands-on labs ([Dialog Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-playground), [Attachment Lab](https://github.com/Azure/bot-education/tree/master/Student-Resources/BOTs/Node/bot-cardbot), [Simple Intent Lab](https://github.com/michhar/bot-education/tree/master/Student-Resources/BOTs/Node/bot-simpleintent), [LUIS Intent Lab](https://github.com/Microsoft/BotBuilder-Samples/tree/master/Node/intelligence-LUIS), [Graph Dialog Lab](https://github.com/CatalystCode/bot-trees))
+
+Break – 15 mins – 2:15 pm
+
+Section 4: 90 mins 2:30 pm
+
+1.  Group exercise:  Hackathon
+
+Break – 15 mins – 4:00 pm
+
+Section 5: 15 mins – 4:15 pm
+
+1.  Summary
+2.  Q/A
+
+End - 4:30 pm
+
+The slide decks (as pdfs) are posted at https://github.com/michhar/bot-extras for each delivery of this course and available from the instructor as powerpoints.
+
+## Modules
+
+1.  Cognitive Services Overview
+2.  Cognitive Services Topic Deep Dive
+*  Bot Framework Overview and User Experience Best Practices
+*  Developer's Introduction and Building an Intelligent Bot with Bot Builder Node.js SDK
+*  Bot Framework Developer's Deep Dive
+
+## Concepts Covered
+
+1.  Generally grasp what the Cognitive Services APIs have to offer
+*  Gain some in-depth knowledge and practical experience with some of the popular Cognitive Services APIs
+*  Understand what a chat bot entails and how the Bot Framework can make the developer's life much easier
+*  Grasp best practices around creating chat bots to create an attractive and positive user experience
+*  Take a tour of an end-to-end chat bot creation process
+*  Take an in-depth look at what makes up conversations and how to make them more intelligent
+
+## Technologies Covered
+
+* Microsoft Cognitive Services
+* Microsoft Bot Framework
+
+## Agenda
+
+Summary:  Each day is broken up into 1-2 hour Modules, where you will learn and perform labs on your own. Some material that is out of scope for hands-on labs will instead be demonstrated by instructor led labs. The modules, broken up into a general agenda are as follows. The specific modules may bleed across sessions depending on engagement of the audience.
+
+## Day 1 Outline: 9:00 am – 4:30 pm
+
+Section 1: 15 mins – 9:00 am
+
+1.  Welcome
+2.  Introduction (and course links)
+
+Section 2: 90 mins – 9:15 am
+
+1.  Motivation
+1.  Cognitive Services overview
+2.  Cognitive Services demo - IntelligentKiosk
+
+Break – 15 mins 10:30 am
+
+Section 3: 60 mins – 10:45 am
+
+1.  Programming primer
+
+Lunch – 11:45 am – 12:45 pm
+
+Section 4: 90 mins – 12:45 pm
+
+1.  Cognitive Services deep dive
+2.  Instructor-led labs with python on jupyter notebooks
+
+Break – 15 mins – 2:15 pm
+
+Section 5: 90 mins – 2:30 pm
+
+1.  Group exercise: a pitch
+
+Break – 15 mins – 4:00 pm
+
+Section 6: 15 mins – 4:15 pm
+
+1.  Summary
+2.  Q/A
+
+End - 4:30 pm
+
+## Day 2 Outline: 9:00 am – 4:30 pm
+
+Section 1: 15 mins – 9:00 am
+
+1.  Welcome
+2.  Introduction
+
+Section 2: 60 mins – 9:15 am
+
+1.  Motivation
+1.  Bot Framework overview ([Lab](https://github.com/Azure/bot-education/blob/master/Student-Resources/Labs/Node/Lab1_SetupCheck.md))
+3.  OCR bot demo on Skype
+
+Break – 15 mins – 10:15 am
+
+Section 3: 75 mins – 10:30 am
+
+1.  Developer's introduction and deploying an intelligent bot
+2.  Deploy a sample bot end-to-end (use bot-hello and follow [Main Lab](https://github.com/michhar/Bot-Framework-HOL/blob/master/CONNECT.md#initialise-a-github-repository), other resources: [Part 1](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#i-want-to-setup-continuous-integration-from-github), [Part 2](https://docs.botframework.com/en-us/node/builder/guides/deploying-to-azure/#test-your-azure-bot-with-the-bot-framework-emulator), [Part 3](https://michhar.github.io/posts/ocrbot-makes-a-connection#the-ocrbot-gets-registered-on-the-bf) with instructor)
 
 Lunch: 11:45 am – 12:45 pm
 
