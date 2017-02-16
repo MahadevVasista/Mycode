@@ -102,9 +102,9 @@ Section 1: 15 mins – 9:00 am
 
 Section 2: 60 mins – 9:15 am
 
-1.  Motivation
 1.  Bot Framework overview ([Lab](https://github.com/Azure/bot-education/blob/master/Student-Resources/Labs/Node/Lab1_SetupCheck.md))
 3.  OCR bot demo on Skype
+4.  UPS bot demo (Deploy your own with [this](https://bots.botframework.com/bot?id=UPSBot) link to Skype)
 
 Break – 15 mins – 10:15 am
 
