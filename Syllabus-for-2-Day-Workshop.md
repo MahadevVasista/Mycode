@@ -75,8 +75,8 @@ Lunch – 11:45 am – 12:45 pm
 
 Section 4: 90 mins – 12:45 pm
 
-1.  Cognitive Services deep dive
-2.  Instructor-led labs with python on jupyter notebooks
+1.  Cognitive Services deep dive ([Text Analytics API Ref Lab](https://github.com/Azure/bot-education/blob/master/Student-Resources/Labs/CSharp/CognitiveServicesLab_API_ref.md))
+2.  Instructor-led labs with python on jupyter notebooks ([Lab](https://notebooks.azure.com/library/python-cognitive))
 
 Break – 15 mins – 2:15 pm
 
