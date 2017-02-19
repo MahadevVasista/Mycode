@@ -70,7 +70,7 @@ Break – 15 mins 10:30 am
 Section 3: 60 mins – 10:45 am
 
 1.  Set up Azure Pass
-2.  Programming primer (Node.js)
+2.  Programming primer ([Javascript Lab](https://notebooks.azure.com/library/jsprimer))
 
 Lunch – 11:45 am – 12:45 pm
 
